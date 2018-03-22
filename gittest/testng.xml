@@ -1,7 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 <suite name="achraf">
 	<test name="test">
 		<classes>
-			<class name="testing.gittest.App"/>
+			<class name="testing.gittest.AppTest"/>
 		</classes>
 	</test>
 </suite>
