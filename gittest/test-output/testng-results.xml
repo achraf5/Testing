@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="9442" started-at="2018-03-22T12:00:27Z" finished-at="2018-03-22T12:00:37Z">
+  <suite name="Default suite" duration-ms="8173" started-at="2018-03-22T14:18:28Z" finished-at="2018-03-22T14:18:36Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="9442" started-at="2018-03-22T12:00:27Z" finished-at="2018-03-22T12:00:37Z">
+    <test name="Default test" duration-ms="8173" started-at="2018-03-22T14:18:28Z" finished-at="2018-03-22T14:18:36Z">
       <class name="testing.gittest.AppTest">
-        <test-method status="PASS" signature="tutoTest()[pri:0, instance:testing.gittest.AppTest@4671e53b]" name="tutoTest" duration-ms="9414" started-at="2018-03-22T12:00:27Z" finished-at="2018-03-22T12:00:37Z">
+        <test-method status="PASS" signature="tutoTest()[pri:0, instance:testing.gittest.AppTest@4671e53b]" name="tutoTest" duration-ms="8145" started-at="2018-03-22T14:18:28Z" finished-at="2018-03-22T14:18:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tutoTest -->
       </class> <!-- testing.gittest.AppTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
