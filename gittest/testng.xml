@@ -1,0 +1,7 @@
+<suite name="achraf">
+	<test name="test">
+		<classes>
+			<class name="testing.gittest.App"/>
+		</classes>
+	</test>
+</suite>
