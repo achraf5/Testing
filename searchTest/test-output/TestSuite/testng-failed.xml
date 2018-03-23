@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [TestSuite]" parallel="tests">
+  <test thread-count="2" name="firefoxTest(failed)" parallel="tests">
+    <classes>
+      <class name="elastic.searchTest.AppTest">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="Test_SC_VOD"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- elastic.searchTest.AppTest -->
+    </classes>
+  </test> <!-- firefoxTest(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->
